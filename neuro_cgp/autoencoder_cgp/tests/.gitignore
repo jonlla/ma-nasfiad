@@ -1,0 +1,4 @@
+/tests_data/saved_individuals/*
+wandb/*
+.pytest_cache/*
+tests_data/individual.pickle
