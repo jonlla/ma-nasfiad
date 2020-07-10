@@ -90,7 +90,7 @@ The following arguments influence the evolutionary algorithm:
 ```python
 GENERATIONS = 10 # Number of generations that the evolutionary algorithm is executed.
 NUM_CHILDREN = 2 # Number of architecture that are generated in each generation.
-NUM_COLS = 20 #  A high value results in deep neural networks, while a low value leads more often to architectures with low depth.
+NUM_COLS = 20 #  A high value results in deeper neural networks, while a low value leads more often to architectures with lower depth.
 ```
 
 These arguments can be defined inside the constructor:
