@@ -101,7 +101,7 @@ model_search = ConvolutionalAutoencoderEvolSearch(X_train,
                                                   num_generations=GENERATIONS,
                                                   num_children=NUM_CHILDREN,
                                                   num_cols=NUM_COLS,
-                                                  search_config=custom_search_config)
+                                                  search_config=demo_search_config)
 ```
 ### Weights & Biases integration
 Your W&B API key and a project name need to be specified in the constructor via the following parameters:
