@@ -118,4 +118,4 @@ The following Google Colab Notebook demonstrates the method for an industrial an
 
 
 [1]: https://arxiv.org/pdf/1803.00370.pdf
-[2]: https://colab.research.google.com/drive/1FeoEgn9Fgav_M6dKMIRHUqJihySL050d#scrollTo=8H6GG7yM8WSY
+[2]: https://colab.research.google.com/drive/1FeoEgn9Fgav_M6dKMIRHUqJihySL050d?usp=sharing
